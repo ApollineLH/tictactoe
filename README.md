@@ -35,7 +35,7 @@ Détails du Retravail
 --------------------
 
 Cette implémentation JavaScript est une version retravaillée du code original en Python, corrigeant des erreurs et améliorant la structure du code. Le retravail vise à améliorer la lisibilité, la maintenabilité et la fonctionnalité globale du jeu du Morpion.
-trouver l'intégralité du rétro ingeniering ici: https://github.com/ApollineLH/tictactoe/blob/main/audit_morpion_apolline_lehiritte.pdf
+trouver l'intégralité du retro-engineering ici: https://github.com/ApollineLH/tictactoe/blob/main/audit_morpion_apolline_lehiritte.pdf
 
 ### Auteur
 
