@@ -1,0 +1,11 @@
+{
+  "name": "morpionjs",
+  "version": "1.0.0",
+  "description": "a litle console tic-tac-toe game",
+  "main": "morpion.js",
+  "scripts": {
+    "start": "node morpion.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
